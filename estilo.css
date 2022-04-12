@@ -1,0 +1,16 @@
+p {
+	color:red;
+	font-family:arial;
+}
+
+h1:hover{
+	color: green;
+}
+
+ul:hover{
+	color: blue;
+}
+
+ol:hover{
+	color: fuchsia;
+}
